@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <data xmlns="http://www.netbeans.org/ns/make-project-private/1">
+        <activeConfTypeElem>1</activeConfTypeElem>
+        <activeConfIndexElem>0</activeConfIndexElem>
+    </data>
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/media/tymbys/archive/progekt/Cpp/OrangePi/Robot_v2/CurrentState.cpp</file>
+            <file>file:/media/tymbys/archive/progekt/Cpp/OrangePi/Robot_v2/WebServer.h</file>
+            <file>file:/media/tymbys/archive/progekt/Cpp/OrangePi/Robot_v2/ProcessingFFmpegToWebSocket.h</file>
+            <file>file:/media/tymbys/archive/progekt/Cpp/OrangePi/Robot_v2/CurrentState.h</file>
+            <file>file:/media/tymbys/archive/progekt/Cpp/OrangePi/Robot_v2/ProcessingKeyFromWebSocket.h</file>
+            <file>file:/media/tymbys/archive/progekt/Cpp/OrangePi/Robot_v2/ProcessingFFmpegToWebSocket.cpp</file>
+            <file>file:/media/tymbys/archive/progekt/Cpp/OrangePi/Robot_v2/ProcessingKeyFromWebSocket.cpp</file>
+            <file>file:/media/tymbys/archive/progekt/Cpp/OrangePi/Robot_v2/WebServer.cpp</file>
+            <file>file:/media/tymbys/archive/progekt/Cpp/OrangePi/Robot_v2/MyServerKey.cpp</file>
+            <file>file:/media/tymbys/archive/progekt/Cpp/OrangePi/Robot_v2/MyServerKey.h</file>
+            <file>file:/media/tymbys/archive/progekt/Cpp/OrangePi/Robot_v2/main.cpp</file>
+            <file>file:/media/tymbys/archive/progekt/Cpp/OrangePi/Robot_v2/index.html</file>
+        </group>
+    </open-files>
+</project-private>
